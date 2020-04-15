@@ -1,0 +1,8 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  .ReactCodeMirror {
+	border: 1px solid #ccc;
+}
